@@ -1,0 +1,2 @@
+# Store the demo app as plain git files (not LFS), so Streamlit Cloud can read them.
+* !filter !diff !merge text=auto

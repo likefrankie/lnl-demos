@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f9b9497b858a73ee2eebac8e870a525a33bea3f72650448da7dd95fb4f827e4
-size 270
+[theme]
+base = "dark"
+primaryColor = "#ffa028"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#0a0c0f"
+textColor = "#d7dde5"
+font = "monospace"
+
+[server]
+headless = true
+address = "localhost"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
